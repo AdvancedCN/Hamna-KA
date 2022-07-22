@@ -1,0 +1,3 @@
+unix is a open source operating system
+ubuntu,kali, are the types of unix operating system
+the main branch of unix is in america
